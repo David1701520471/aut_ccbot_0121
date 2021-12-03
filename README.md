@@ -19,7 +19,7 @@ Then the first comand
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-By the way the email sent with this repository have another url to this app deployed if you want to dosen't waste time.
+By the way the email sent with this repository have another url to this app deployed if you dosen't want to waste time.
 
 # Bot states 
 ![This is an image](https://github.com/David1701520471/aut_ccbot_0121/blob/master/BotPackage/estados%20auto.drawio.png)
